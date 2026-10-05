@@ -50,7 +50,7 @@ public class AddBuildings extends JFrame {
                     }
                     bookingResource.checkUser(emailID);
                     bookingResource.addBuilding(buildingName, address, emailID);
-                    JOptionPane.showMessageDialog(addBuildings, "Building Added Sucessfully.");
+                    JOptionPane.showMessageDialog(addBuildings, "Building Added Successfully.");
                 } catch (IllegalArgumentException ex) {
                     String error = ex.getLocalizedMessage();
                     JOptionPane.showMessageDialog(addBuildings, error);
