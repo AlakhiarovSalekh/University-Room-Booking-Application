@@ -64,6 +64,12 @@ This project was developed as coursework for CS5001 Object-Oriented Modelling, D
 
 Issues and focused pull requests are welcome, particularly for test coverage, documentation, validation, and UI improvements.
 
+## More Projects by Salekh
+
+- [Marks Manager](https://github.com/AlakhiarovSalekh/Marks-Manager) — Java console/Swing student marks management.
+- [Parking Lot System](https://github.com/AlakhiarovSalekh/Parking-Lot-System) — Java OOP system-design project.
+- [Food Ordering App](https://github.com/AlakhiarovSalekh/Food-Ordering-App) — Java Swing client-server ordering system.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)
