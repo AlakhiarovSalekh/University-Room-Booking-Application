@@ -64,6 +64,8 @@ This project was developed as coursework for CS5001 Object-Oriented Modelling, D
 
 Issues and focused pull requests are welcome, particularly for test coverage, documentation, validation, and UI improvements.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Marks Manager](https://github.com/AlakhiarovSalekh/Marks-Manager) — Java console/Swing student marks management.
