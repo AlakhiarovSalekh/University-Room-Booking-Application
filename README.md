@@ -1,4 +1,4 @@
-# University Room Booking Application
+# Java University Room Booking System — Swing, MVC & JUnit 5
 
 [![Java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![JUnit](https://img.shields.io/badge/JUnit-5-25A162?logo=junit5&logoColor=white)](https://junit.org/junit5/)
